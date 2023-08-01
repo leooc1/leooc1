@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo✋
 <ul>
-  <li> Estudante de Bacharelado em Ciência da Computação - 3/8<br/>
+  <li> Estudante de Bacharelado em Ciência da Computação - 4/8<br/>
   <li> Atualmente estudo as tecnologias HTML, CSS, JavaScript e ReactJs. Paralelo à faculdade.
 </ul>
 
