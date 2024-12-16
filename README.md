@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Leonardo✋
 <ul>
-  <li> Estudante de Bacharelado em Ciência da Computação - 5/8<br/>
+  <li> Estudante de Bacharelado em Ciência da Computação - 7/8<br/>
 </ul>
 
 #### Sou extremamente apaixonado por aprendizagem contínua e estou constantemente buscando novos desafios para expandir meus conhecimentos e habilidades.
